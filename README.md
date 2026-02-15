@@ -10,19 +10,19 @@ TinDog is a playful Bootstrap-based website that mimics a product landing page f
 
 ## 🛠 Built With
 
-HTML5 – Structure of the web page
-CSS3 – Custom styles
-Bootstrap 5 – Responsive layout & components
+- HTML5 – Structure of the web page
+- CSS3 – Custom styles
+- Bootstrap 5 – Responsive layout & components
 
 
 ## 📌 Features
 
-✔ Fully responsive on mobile, tablet, and desktop
-✔ Hero section with call-to-action buttons
-✔ Feature highlights
-✔ Testimonials section
-✔ Pricing cards
-✔ Footer with navigation links
+- ✔ Fully responsive on mobile, tablet, and desktop
+- ✔ Hero section with call-to-action buttons
+- ✔ Feature highlights
+- ✔ Testimonials section
+- ✔ Pricing cards
+- ✔ Footer with navigation links
 
 ## 📁 Folder Structure
 
