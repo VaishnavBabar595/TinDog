@@ -1,4 +1,4 @@
-## 🐶 TinDog – Tinder for Dogs
+# 🐶 TinDog – Tinder for Dogs
 
 ### Live Demo: https://vaishnavbabar595.github.io/TinDog/
 
@@ -17,15 +17,15 @@ TinDog is a playful Bootstrap-based website that mimics a product landing page f
 
 ## 📌 Features
 
-- ✔ Fully responsive on mobile, tablet, and desktop
-- ✔ Hero section with call-to-action buttons
-- ✔ Feature highlights
-- ✔ Testimonials section
-- ✔ Pricing cards
-- ✔ Footer with navigation links
+- Fully responsive on mobile, tablet, and desktop
+- Hero section with call-to-action buttons
+- Feature highlights
+- Testimonials section
+- Pricing cards
+- Footer with navigation links
 
 ## 📁 Folder Structure
-
+```
 TinDog/
 ├── index.html
 ├── css/
@@ -33,3 +33,4 @@ TinDog/
 ├── assets/
 │   └── images/
 └── README.md
+```
